@@ -139,6 +139,6 @@
 
 | 文件 | 说明 |
 |--------|--------|
-| analysis.ipynb | 完整分析代码 |
-| analysis.pdf | PDF分析报告 |
+| analysis.ipynb | 完整分析代码 (下载)|
+| analysis.pdf | PDF分析报告（下载） |
 | Furniture品类亏损分析报告.html | HTML可视化报告 |
