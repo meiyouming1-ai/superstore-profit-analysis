@@ -58,7 +58,7 @@
 
 - **核心问题**：Furniture品类销售额与另外两个品类相当，但利润仅为它们的零头，是拖累公司整体利润率的唯一原因
 - **趋势恶化**：Furniture利润率三年持续垫底，2017年进一步下滑至1.4%
-  ![](charts\phase2_profit_margin_by_year.png)
+![](charts\phase2_profit_margin_by_year.png)
 ### 3. Furniture品类深度拆解
 #### （1）折扣与利润的关系
 - Furniture平均折扣17.4%，是Technology（13.2%）和Office Supplies（15.7%）的约1.2倍
