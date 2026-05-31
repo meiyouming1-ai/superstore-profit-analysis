@@ -118,3 +118,9 @@
 | P0（立即） | 全公司Tables和Bookcases折扣上限降至25%；发布新的销售考核机制 | 销售总监+品类经理 | 1周内 |
 | P1（本季度） | 完成Tables和Bookcases供应商审计与成本谈判；启动Bookcases同步调价 | 采购经理+品类经理 | 3个月内 |
 | P2（下季度） | 逐步将加成率提升至1.3x；评估两条路径的最终效果并确定长期策略 | 品类经理+区域总监 | 6个月内 |
+ 项目成果
+分析报告
+ [HTML 在线报告](notebooks/Furniture品类亏损分析报告.html)
+ [PDF 报告](notebooks/analysis.pdf)
+代码
+[完整分析代码](notebooks/analysis.ipynb)（已清空输出，可正常预览和运行）
