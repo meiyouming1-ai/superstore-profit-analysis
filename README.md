@@ -58,23 +58,23 @@
 
 - **核心问题**：Furniture品类销售额与另外两个品类相当，但利润仅为它们的零头，是拖累公司整体利润率的唯一原因
 - **趋势恶化**：Furniture利润率三年持续垫底，2017年进一步下滑至1.4%
-  ![](charts/phase3_central_consumer_subcat.png)
+  ![](charts\phase2_profit_margin_by_year.png)
 ### 3. Furniture品类深度拆解
 #### （1）折扣与利润的关系
 - Furniture平均折扣17.4%，是Technology（13.2%）和Office Supplies（15.7%）的约1.2倍
 - 折扣>30%的订单几乎全部亏损，折扣率与利润率呈显著负相关
-
+![](charts\phase3_discount.png)
 #### （2）地区分布
 - 销售额分布：West（34.0%）> East（28.1%）> Central（22.1%）> South（15.8%）
 - 利润分布：West（$11,505）> South（$6,771）> East（$3,046）> **Central（-$2,871）**
 - **关键发现**：Central是唯一亏损的大区，且Consumer客户平均折扣高达31.4%，是其他地区的2倍以上
+![](charts\phase3_region.png)  
 ![](charts\phase3_central_deep.png)
-![](charts\phase3_region.png)
 #### （3）客户细分
 - 销售额占比：Consumer（52.7%）> Corporate（30.9%）> Home Office（16.4%）
 - 利润率对比：Corporate（3.3%）≈ Home Office（3.2%）> **Consumer（1.8%）**
 - **关键发现**：占比过半的Consumer客户利润率最低，但折扣率最高（17.7%）
-![](charts\phase3_segment.png)
+![](charts\phase3_central_consumer_subcat.png)
 #### （4）子品类拆解（Central地区Consumer）
 | 子品类 | 利润 | 利润率 | 平均折扣 |
 |--------|------|--------|----------|
@@ -82,7 +82,7 @@
 | Furnishings | -$1,454 | -15.3% | 41.1% |
 | Bookcases | -$1,497 | -11.6% | 26.1% |
 | Tables | -$3,964 | -19.0% | 31.2% |
-
+![](charts\phase3_segment.png)
 - **核心结论**：同样的地区和客户类型，Chairs能够盈利，说明问题不在于市场，而在于Tables、Bookcases和Furnishings的定价与折扣策略失控
 
 ### 4. 定价策略验证
