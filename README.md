@@ -74,7 +74,7 @@
 - 销售额占比：Consumer（52.7%）> Corporate（30.9%）> Home Office（16.4%）
 - 利润率对比：Corporate（3.3%）≈ Home Office（3.2%）> **Consumer（1.8%）**
 - **关键发现**：占比过半的Consumer客户利润率最低，但折扣率最高（17.7%）
-![Central子品类亏损](charts/phase3_central_consumer_subcat.png)
+![客户细分分析](charts/phase3_segment.png)
 #### （4）子品类拆解（Central地区Consumer）
 | 子品类 | 利润 | 利润率 | 平均折扣 |
 |--------|------|--------|----------|
@@ -82,7 +82,7 @@
 | Furnishings | -$1,454 | -15.3% | 41.1% |
 | Bookcases | -$1,497 | -11.6% | 26.1% |
 | Tables | -$3,964 | -19.0% | 31.2% |
-![客户细分分析](charts/phase3_segment.png)
+![Central子品类亏损](charts/phase3_central_consumer_subcat.png)
 - **核心结论**：同样的地区和客户类型，Chairs能够盈利，说明问题不在于市场，而在于Tables、Bookcases和Furnishings的定价与折扣策略失控
 
 ### 4. 定价策略验证
